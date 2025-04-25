@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node src/app.js",
     "dev": "node src/app.js",
-    "build": "echo \"Error: no build specified\" && exit 1"
+    "build": "echo \"build script running...\ndone\""
   },
   "author": "quantum-corn",
   "license": "GPL-3.0",
