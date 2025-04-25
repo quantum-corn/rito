@@ -1,3 +1,6 @@
+//Initializing the environment
+require("dotenv").config();
+
 //Initialize Express
 const express = require("express");
 const app = express();
